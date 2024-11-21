@@ -26,10 +26,10 @@ This project focuses on classifying German traffic signs using a Convolutional N
 **Visualizations:**
 
 **Screenshot 1: Model Architecture**
-![Model Architecture](path/to/architecture_screenshot.png)
+![](Images/Img_1.PNG)
 
 **Screenshot 2: Training Performance (Accuracy/Loss)**
-![Training Performance](path/to/training_plot.png)
+![](Images/img_2.PNG)
 
 **Screenshot 3: Prediction on a Single Image**
 ![Single Image Prediction](path/to/single_image_prediction.png)
